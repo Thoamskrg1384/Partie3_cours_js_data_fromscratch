@@ -202,14 +202,14 @@ arrayNumber.push(17);
 //   .map(
 //     (user) =>
 //       `
-//     <div class="user-card">
-//       <h2>${user.pseudo}</h2>
-//       <p>Age : ${user.age} ans</p>
-//       <p>Status : ${user.admin ? "Modérateur" : "Membre"}</p>
-//     </div>
-//   `
-//   )
-//   .join("");
+//   <div class="user-card">
+//     <h2>${user.pseudo}</h2>
+//     <p>Age : ${user.age} ans</p>
+//     <p>Status : ${user.admin ? "Modérateur" : "Membre"}</p>
+//   </div>
+// `
+// )
+// .join("");
 
 //----------
 // Les dates
